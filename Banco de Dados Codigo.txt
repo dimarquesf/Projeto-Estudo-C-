@@ -1,0 +1,49 @@
+CREATE TABLE tbl_pessoa
+(
+  id serial NOT NULL,
+  nome character varying(40),
+  idade integer,
+  nascionalidade character varying(20),
+  endereco character varying(30),
+  numero integer,
+  telefone character varying(20),
+  email character varying(30),
+  foto character varying(60),
+  ativo boolean,
+  CONSTRAINT pk_idpessoa PRIMARY KEY (id)
+);
+
+CREATE TABLE tbl_produto
+(
+  id serial NOT NULL,
+  nome character varying(40),
+  quantidade integer,
+  peso integer,
+  ativo boolean,
+  CONSTRAINT pk_idproduto PRIMARY KEY (id));
+
+CREATE TABLE tbl_venda
+(
+  id serial NOT NULL,
+  idproduto integer NOT NULL,
+  idpessoa integer NOT NULL,
+  quantidade integer,
+  datavenda date,
+  preco numeric (6,2),
+  total numeric (6,2),
+  CONSTRAINT pk_idvenda   PRIMARY KEY (id),
+  CONSTRAINT fk_idproduto FOREIGN KEY (idproduto)
+      REFERENCES tbl_produto (id),
+  CONSTRAINT fk_idpessoa FOREIGN KEY (idpessoa)
+      REFERENCES tbl_pessoa (id));    
+
+Create table tbl_usuario (
+id serial,
+username varchar(30), 
+senha varchar(30),
+Constraint pk_idusuario primary key (id));
+
+
+insert into usuario (username, senha) values ( 'rafael', 123);
+
+select * from usuario;

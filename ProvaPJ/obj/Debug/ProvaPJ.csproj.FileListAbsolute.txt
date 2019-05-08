@@ -1,0 +1,17 @@
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\obj\Debug\ProvaPJ.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\obj\Debug\ProvaPJ.frm_cadusuario.resources
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\obj\Debug\ProvaPJ.frm_estoque.resources
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\obj\Debug\ProvaPJ.frm_login.resources
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\obj\Debug\ProvaPJ.frm_principal.resources
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\obj\Debug\ProvaPJ.frm_pessoa.resources
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\obj\Debug\ProvaPJ.frm_produto.resources
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\obj\Debug\ProvaPJ.frm_vendaP.resources
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\obj\Debug\ProvaPJ.Properties.Resources.resources
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\obj\Debug\ProvaPJ.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\bin\Debug\ProvaPJ.exe.config
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\bin\Debug\ProvaPJ.exe
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\bin\Debug\ProvaPJ.pdb
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\bin\Debug\Mono.Security.dll
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\bin\Debug\Npgsql.dll
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\obj\Debug\ProvaPJ.exe
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\ProvaPJ\ProvaPJ\obj\Debug\ProvaPJ.pdb
